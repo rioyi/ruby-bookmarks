@@ -131,6 +131,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Blogs
 
+- [blog easyrambl](https://easyramble.com/) - blog en Japones de rails y mucho mas!
+- [blog.bigbinary](https://blog.bigbinary.com/) -  Buenos articulos de ruby
+- [MogLog](https://mogulla3.tech/) - 日記 兼 備忘録 Blog sobre rails
+- [Shopify](https://engineering.shopify.com/)- articulo de ingenieria de shopify
+- [zayne.io](https://zayne.io/)
 - [Santi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Justin Weiss](http://www.justinweiss.com/blog/archives/)
@@ -143,6 +148,8 @@ Ruby on Rails configuration
 
 ## Community Resources
 
+- [scotch](https://scotch.io/tutorials) - Tutoriales
+- [pragmaticstudio](https://pragmaticstudio.com/tutorials) - Tutoriales a parte de los cursos online pagos.
 - [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
 - [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
 - [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
