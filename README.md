@@ -98,7 +98,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### Ruby on Rails for beginners
 
 - ★ [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
-- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6) 
+- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6)
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by *Michael Hartl*
 - [Learn Ruby on Rails](http://www.amazon.com/dp/B00QK2T1SY) by *Daniel Kehoe*
 
@@ -131,6 +131,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Blogs
 
+- [railscarma](https://www.railscarma.com/blog/)
 - [blog easyrambl](https://easyramble.com/) - blog en Japones de rails y mucho mas!
 - [blog.bigbinary](https://blog.bigbinary.com/) -  Buenos articulos de ruby
 - [MogLog](https://mogulla3.tech/) - 日記 兼 備忘録 Blog sobre rails
@@ -158,6 +159,7 @@ Ruby on Rails configuration
 
 ## Screencasts and courses
 
+- ★ [rails-bestpractices](https://rails-bestpractices.com/)
 - ★ [Pluralsight](https://www.pluralsight.com/search?q=ruby) Ruby Course Library.
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
